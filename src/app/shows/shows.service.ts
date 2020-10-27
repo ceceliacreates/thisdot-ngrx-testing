@@ -26,14 +26,14 @@ let shows = [
   {
     id: 2,
     name: 'Person of Interest',
-    imgUrl: 'https://assets.nydailynews.com/polopoly_fs/1.954520.1318384863!/img/httpImage/image.jpg_gen/derivatives/article_750/alg-person-interest-jpg.jpg',
+    imgUrl: 'https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/11/breaking-bad-main-new-9926.jpg',
     description: `Former CIA agent Reese (Jim Caviezel) -- now presumed dead -- and billionaire software genius Finch (Michael Emerson) join forces as a vigilante crime-fighting team. Using Finch's program, which employs pattern recognition to determine individuals who will soon be involved in violent crimes, they combine Reese's covert-operations training and Finch's money and cyberskills to stop crimes before they happen. Former Army Intelligence Support Activity operative Sameen Shaw joins the pair in their quest.`,
     isFavorite: false
   },
   {
     id: 3,
     name: 'Suits',
-    imgUrl: 'https://www.usanetwork.com/sites/usanetwork/files/styles/full_episodes_633x356/public/suits_cast_mike.jpg',
+    imgUrl: 'https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/11/breaking-bad-main-new-9926.jpg',
     description: `Mike Ross, a talented young college dropout, is hired as an associate by Harvey Specter, one of New York's best lawyers. They must handle cases while keeping Mike's qualifications a secret.`,
     isFavorite: false
   },

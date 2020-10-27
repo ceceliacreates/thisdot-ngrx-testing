@@ -10,7 +10,13 @@ export class AppComponent {
   title = "thisdot-ngrx";
 
 
-  constructor(private store: Store<any>) {}
+  constructor(private store: Store<any>) {
+    // @ts-ignore
+    if(window.Cypress){
+      // @ts-ignore
+      window.store = this.store;
+  }
+}
 
   ngOnInit() {
     this.store.dispatch(showsActions.appLoaded());
